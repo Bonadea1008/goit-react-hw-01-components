@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bonadea1008.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Bonadea1008.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Bonadea1008.github.io/goit-react-hw-01-components/static/css/main.670c7846.css",
+    "main.js": "/Bonadea1008.github.io/goit-react-hw-01-components/static/js/main.756aa28c.js",
     "index.html": "/Bonadea1008.github.io/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Bonadea1008.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Bonadea1008.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.670c7846.css.map": "/Bonadea1008.github.io/goit-react-hw-01-components/static/css/main.670c7846.css.map",
+    "main.756aa28c.js.map": "/Bonadea1008.github.io/goit-react-hw-01-components/static/js/main.756aa28c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.670c7846.css",
+    "static/js/main.756aa28c.js"
   ]
 }

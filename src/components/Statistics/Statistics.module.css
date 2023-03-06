@@ -1,0 +1,7 @@
+.statistics {
+  width: 400px;
+  padding: 60px 20px;
+  text-align: center;
+  background: #f0efef;
+  box-shadow: 32px 32px 64px #afaeae, -32px -32px 64px #ffffff;
+}

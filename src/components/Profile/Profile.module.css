@@ -1,10 +1,11 @@
 .profile {
-  width: 400px;
+  width: 440px;
   background: #f0efef;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   box-shadow: 32px 32px 64px #afaeae, -32px -32px 64px #ffffff;
   padding-top: 15px;
+  margin-bottom: 30px;
 }
 
 .avatar {

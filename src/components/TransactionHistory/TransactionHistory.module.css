@@ -1,0 +1,21 @@
+.transactionHistory {
+  width: 640px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: normal;
+  border: 1px solid #a5cfde;
+  border-radius: 8px;
+  box-shadow: 32px 32px 64px #afaeae, -32px -32px 64px #ffffff;
+}
+
+.transactionHistory > thead {
+  text-transform: uppercase;
+  color: #ffffff;
+  height: 60px;
+  background-color: #4ba6c6;
+}
+
+.transactionHistory > tbody {
+  text-align: center;
+}
